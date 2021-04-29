@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab07</string>
+
+    <string name="przyciskSkladuj">SKŁADUJ</string>
+    <string name="przyciskWydaj">WYDAJ</string>
+
+    <string name="tekstJednostka"> kg </string>
+    <string name="tekstStanMagazynu"> Wybierz warzywo. </string>
+</resources>
